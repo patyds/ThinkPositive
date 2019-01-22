@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#CC9797</color>
+    <color name="LightNude">#D69696</color>
+    <color name="darkNude">#B68A8B</color>
+    <color name="lightBlue">#A1D2CF</color>
+    <color name="darkBlue">#95BDBC</color>
+    <color name="mediumNude">#D69696</color>
+    <color name="black">#000000</color>
+    <color name="lightLight">#F0DBDB</color>
+    <color name="mediumLight">#CC9797</color>
+    <color name="darkLight">#855A5A</color>
+</resources>
